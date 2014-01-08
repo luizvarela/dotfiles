@@ -9,4 +9,4 @@ cp files/vimrc ~/.vimrc
 cp files/zshrc ~/.zshrc
 
 mkdir -p ~/.oh-my-zsh/themes/
-cp file/.oh-my-zsh/themes/mateusg.zsh-theme ~/.oh-my-zsh/themes/mateusg.zsh-theme
+cp files/.oh-my-zsh/themes/mateusg.zsh-theme ~/.oh-my-zsh/themes/mateusg.zsh-theme
